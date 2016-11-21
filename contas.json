@@ -1,0 +1,1246 @@
+[{
+  "code": "4.2",
+  "name": "DESPESAS FINANCEIRAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.01.01",
+  "name": "CAPITAL SOCIAL REALIZADO",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.02",
+  "name": "OUTROS VALORES A RECEBER",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.14",
+  "name": "Manutenção e Conservação",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.09",
+  "name": "Despesas de Cartório",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.01.02",
+  "name": "(-) CAPITAL A REALIZAR",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.02.01",
+  "name": "Outras Contas a Receber",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.2.01",
+  "name": "EXIGÍVEL A LONGO PRAZO",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.07",
+  "name": "Correios e Malotes",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.05.01",
+  "name": "Lucro do Exercício",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02",
+  "name": "CRÉDITOS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.01",
+  "name": "Benfeitoria em Imóveis de Terceiros",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.03.01.02",
+  "name": "Seguros Prédios/Bens/Estoques",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.01",
+  "name": "Concessões",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.10",
+  "name": "Terrenos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.04",
+  "name": "PREJUÍZOS ACUMULADOS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.01.01",
+  "name": "DESPESAS COM ATUALIZAÇÕES",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.01.01.01",
+  "name": "Receita de Serviços",
+  "credit": 353855.2,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.11",
+  "name": "Veículos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.04.01.02",
+  "name": "IRRF a Recolher - Pessoa Física",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.03.01",
+  "name": "Pro-Labore a Pagar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.01.03",
+  "name": "Rescisões a Pagar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.05.01.04",
+  "name": "INSS Parcelamento",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.06",
+  "name": "Marcas e Patentes",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.09.01",
+  "name": "CSLL a Recuperar/Compensar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.23",
+  "name": "Telefone Linha Fixa",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.04.02.02",
+  "name": "Multas de Mora",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.09.04",
+  "name": "IRRF a Recuperar/Compensar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.05.01.02",
+  "name": "CSLL Parcelamento",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.04.02.03",
+  "name": "Multas Contratuais",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.03.01",
+  "name": "SEGUROS A APROPRIAR",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.05.01.05",
+  "name": "IRPJ Parcelamento",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.04.03.02",
+  "name": "COFINS a Pagar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.18",
+  "name": "Segurança e Vigilância",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2",
+  "name": "ATIVO NÃO CIRCULANTE",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.05",
+  "name": "PARCELAMENTOS CURTO PRAZO",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.03.04",
+  "name": "Deprec.de Instalações",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1",
+  "name": "RECEITAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.04.03.03",
+  "name": "ISS a Pagar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.25",
+  "name": "Viagens e Estadas",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.01.06",
+  "name": "Pró-Labore",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.05.01.06",
+  "name": "PIS Parcelamento",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.03.01",
+  "name": "Reserva para Aumento de Capital",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.01.06",
+  "name": "Vale Refeição a Pagar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.01",
+  "name": "RESERVAS DE CAPITAL",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.26",
+  "name": "Estacionamento de veículos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.02.03",
+  "name": "Provisão de FGTS s/Férias",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.09.03",
+  "name": "IRRF s/Aplicações Financeiras",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.02.01.02",
+  "name": "Contas a Pagar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.03.02",
+  "name": "Adiantamento de Férias",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.05",
+  "name": "Ferramentas",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.05",
+  "name": "Fundo de Comércio",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1",
+  "name": "CIRCULANTE",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.03.01.06",
+  "name": "IPVA",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.01.01",
+  "name": "Reserva de Capital",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.01.01.02",
+  "name": "Despesas de Cobrança",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.04.02.01",
+  "name": "Multas Fiscais Compensatórias",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.01",
+  "name": "FOLHA DE PAGAMENTO - EMPREGADOS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.04.01.03",
+  "name": "IRRF a Recolher - Pessoa Jurídica",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.02.02",
+  "name": "JUROS E DESCONTOS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.04",
+  "name": "Combustíveis e Lubrificantes",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.01.01.01",
+  "name": "Depósitos Judiciais",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.06",
+  "name": "DISTRIBUIÇÃO DE LUCROS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.01.07",
+  "name": "Vale Transporte a Pagar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.03",
+  "name": "Edifícios e Construções",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.02.01",
+  "name": "Provisão de Férias",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.02.01.03",
+  "name": "PIS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.02.02",
+  "name": "Provisão de INSS s/Férias",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.01.05",
+  "name": "Vale-Transporte",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.04.01.05",
+  "name": "PIS/COFINS/CSLL Retido a Recolher",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.04",
+  "name": "Franquias",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.09.06",
+  "name": "PIS a Recuperar/Compensar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.02.01.04",
+  "name": "Simples Nacional",
+  "credit": 0,
+  "debit": 33973.87
+}, {
+  "code": "4.2.03.01.02",
+  "name": "CSLL",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.17",
+  "name": "Refeições e Lanches",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.2",
+  "name": "PASSIVO NÃO CIRCULANTE",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.01.03",
+  "name": "Adicional Noturno",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.27",
+  "name": "Convênio Médico",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.02.02.02",
+  "name": "Descontos Concedidos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.03.01.01",
+  "name": "IRPJ",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1",
+  "name": "DESPESAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.04.02.01",
+  "name": "Provisão para o Imposto de Renda",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.01",
+  "name": "CAPITAL SOCIAL",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.01",
+  "name": "REALIZÁVEL  A LONGO PRAZO",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.01.02",
+  "name": "Cartão de Crédito",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.03.04",
+  "name": "Outras Reservas",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.02.02.03",
+  "name": "Juros s/ Empréstimos e Financiamentos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3",
+  "name": "PATRIMÔNIO LÍQUIDO",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.04.02",
+  "name": "FGTS a Pagar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.03.01",
+  "name": "Deprec.de Edificações",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.01.05",
+  "name": "Seguro a Pagar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.09.05",
+  "name": "IRPJ a Recuperar/Compensar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.01.01",
+  "name": "RECEITA DE SERVIÇOS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.01.07",
+  "name": "Férias",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.04.02.02",
+  "name": "Provisão Contrib.Social s/Lucro Líquido",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01",
+  "name": "DESPESAS OPERACIONAIS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2",
+  "name": "PASSIVO",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.03.01.03",
+  "name": "Seguros s/Lucros Cessantes",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.02",
+  "name": "CONSTRUÇÕES EM ANDAMENTO",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03",
+  "name": "DESPESAS GERAIS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.02.02.01",
+  "name": "Despesas com Juros",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.03.03",
+  "name": "Adiantamento 13º Salário",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.01.01",
+  "name": "DEPÓSITOS JUDICIAIS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.05.01.01",
+  "name": "COFINS Parcelamento",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.02",
+  "name": "Aluguel",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.09",
+  "name": "IMPOSTOS E CONTRIBUIÇÕES A RECUPERAR",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.03",
+  "name": "(-) DEPRECIAÇÃO ACUMULADA",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.03.01.03",
+  "name": "Taxas",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.02",
+  "name": "PROVISÕES DE FÉRIAS E 13º SALÁRIO",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.02.01",
+  "name": "Ajustes às Normas Internacionais de Contabilidade",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.05.01",
+  "name": "PARCELAMENTOS TRIBUTÁRIOS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.03",
+  "name": "ADIANTAMENTOS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.03",
+  "name": "RESERVAS DE LUCROS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.01.01.01",
+  "name": "Despesas Bancárias",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.03.01.05",
+  "name": "IPTU",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.2.01.01.02",
+  "name": "Caixa Economica Federal",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.01",
+  "name": "DISPONIBILIDADES",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03",
+  "name": "OBRIGAÇÕES TRABALHISTAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.03.02",
+  "name": "Deprec.de Equip.de Informática",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.04.01",
+  "name": "(-) AMORTIZAÇÃO DO INTANGÍVEL",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.2.01.01.06",
+  "name": "Santander",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.02.01.02",
+  "name": "ISS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.04.03.04",
+  "name": "Simples a Pagar",
+  "credit": 33973.87,
+  "debit": 18598.8
+}, {
+  "code": "2.3.02",
+  "name": "RESERVAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.01",
+  "name": "Agua e Esgoto",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.03.01",
+  "name": "GANHOS COM APLICAÇÕES FINANCEIRAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.03.02",
+  "name": "JUROS E DESCONTOS OBTIDOS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.2.01.01.03",
+  "name": "Banco do Brasil",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.01",
+  "name": "OBRIGAÇÕES A CURTO PRAZO",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.15",
+  "name": "Material de Escritório",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.04",
+  "name": "BENS INTAGÍVEIS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.08",
+  "name": "Outras",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.03",
+  "name": "DESPESAS TRIBUTÁRIAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01",
+  "name": "INTANGÍVEL",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.04.01.01",
+  "name": "(Amortização - Nome do Bem)",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.01",
+  "name": "RECEITAS OPERACIONAIS SERVIÇOS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.01.04",
+  "name": "13º Salário a Pagar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.06.01",
+  "name": "Lucros Distribuídos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.04.02",
+  "name": "IMPOSTOS E CONTRIBUIÇÃO S/ O LUCRO",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.04.02",
+  "name": "Ajustes Credores Exercícios Anteriores",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.03",
+  "name": "RECEITAS FINANCEIRAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.04",
+  "name": "Equipamentos de Informática",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.01",
+  "name": "DESPESAS TRABALHISTAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1",
+  "name": "CIRCULANTE",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.03.03",
+  "name": "Deprec.de Ferramentas",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.04.01.01",
+  "name": "INSS Retido a Recolher",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.02",
+  "name": "FORNECEDORES",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.02.01",
+  "name": "PARTICIPAÇÕES SOCIETÁRIAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.05",
+  "name": "Confraternizações",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.02",
+  "name": "Desenvolvimento de Produtos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.02",
+  "name": "Direito de Uso Linhas Telefônicas",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.20",
+  "name": "Serv.Terceiros P.Física - Autônomos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.02.04",
+  "name": "Provisão de 13º Salário",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.01",
+  "name": "DESPESAS FINANCEIRAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.02.01.01",
+  "name": "Participação Societárias",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.07",
+  "name": "Software ou Programas de Computador",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.02.01",
+  "name": "IMPOSTOS SOBRE VENDAS E SERVIÇOS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.02.01",
+  "name": "Inss",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.24",
+  "name": "Telefone Móvel Celular",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.03.02.02",
+  "name": "Descontos Obtidos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.01.01",
+  "name": "CAIXA",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.04.03",
+  "name": "Ajustes Devedores Exercícios Anteriores",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.01.02",
+  "name": "BANCOS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.03.01.02",
+  "name": "Rendimento Caderneta de Poupança",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.01.02.01",
+  "name": "Capital Social a Realizar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.08",
+  "name": "Modelos, Moldes e Matrizes",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.04",
+  "name": "ENCARGOS SOCIAIS A PAGAR",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.03.01",
+  "name": "Adiantamento de Salários",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.01.01.01",
+  "name": "Capital Social Realizado",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.07",
+  "name": "Máquinas e Equipamentos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.04.02",
+  "name": "MULTAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3",
+  "name": "RECEITAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.01",
+  "name": "CLIENTES NACIONAIS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.01.01",
+  "name": "FINANCIAMENTOS A CURTO PRAZO - SFN",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.03.07",
+  "name": "Deprec.de Móveis e Utensílios",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.03.01.04",
+  "name": "IOF",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.01.04",
+  "name": "Vale-Refeição",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.03",
+  "name": "DESPESAS DO EXERCÍCIO SEGUINTE",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.09.07",
+  "name": "PIS/COFINS/CSLL a Recuperar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.2.03.01",
+  "name": " TAXAS E CONTRIBUIÇÕES",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.01.08",
+  "name": "13º Salário",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.21",
+  "name": "Serv.Terceiros Pessoa Jurídica",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.02.06",
+  "name": "Provisão FGTS s/13º Salário",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.09.02",
+  "name": "COFINS a Recuperar/Compensar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.02",
+  "name": "(-) DEDUÇÕES DA RECEITA BRUTA",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.01.01",
+  "name": "Salários a Pagar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03",
+  "name": "BENS INTAGÍVEIS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1",
+  "name": "ATIVO",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.02",
+  "name": "AJUSTES DE AVALIAÇÃO PATRIMONIAL",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.10",
+  "name": "Energia Elétrica",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.02.01",
+  "name": "Imóvel",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.02.01",
+  "name": "FORNECEDORES NACIONAIS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.05",
+  "name": "RESULTADO DO EXERCÍCIO",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.04.01",
+  "name": "(-) Prejuízos Acumulados",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.03.03",
+  "name": "Reservas de Lucros",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.06",
+  "name": "Cópias e Reproduções",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.22",
+  "name": "Sindicato Patronal/Assoc.de Classe",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.01.01",
+  "name": "Clientes",
+  "credit": 353855.2,
+  "debit": 353855.2
+}, {
+  "code": "2.1.04",
+  "name": "OBRIGAÇÕES TRIBUTÁRIAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.03",
+  "name": "Bens de Pequeno Valor",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.13",
+  "name": "Locação de Equipamentos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01",
+  "name": "IMOBILIZADO",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.02.01.01",
+  "name": "Fornecedores",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.02.02",
+  "name": "Fgts",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.08",
+  "name": "Depreciação e Amortização",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.02.05",
+  "name": "Provisão de INSS s/13º Salário",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.01.02",
+  "name": "Férias a Pagar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.2.01.01.01",
+  "name": "Banco Itaú",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.04.03.01",
+  "name": "PIS a Pagar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.06",
+  "name": "Instalações",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.03.02.01",
+  "name": "Juros Recebidos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.04.03",
+  "name": "IMPOSTOS E CONTRIBUIÇÃO S/ RECEITAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.11",
+  "name": "Feiras/Congressos/Simpósios/Cursos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.06",
+  "name": "(-) LUCROS DISTRIBUÍDOS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4",
+  "name": "DESPESAS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.01.01",
+  "name": "Salários",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03",
+  "name": "IMOBILIZADO - MATRIZ",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.2.01.01.05",
+  "name": "Bradesco",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.01.02",
+  "name": "Horas-Extras",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.03.05",
+  "name": "Deprec.de Máquinas e Equipamentos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.09",
+  "name": "Móveis e Utensílios",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.03.01.01",
+  "name": "Rendimento Aplic.Automática C/Corrente",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.03.05",
+  "name": "Adiantamento de Lucros",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.2.01.01",
+  "name": "FINANCIAMENTOS A LONGO PRAZO - SFN",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.02",
+  "name": "INVESTIMENTOS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.02",
+  "name": "ENCARGOS SOCIAIS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.16",
+  "name": "Material de Limpeza",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.03.02",
+  "name": "Reservas de Capital",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.3.02.05.02",
+  "name": "Prejuízo do Exercício",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.12",
+  "name": "Formação de Pessoal",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.01.03",
+  "name": "Direitos Autorais",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.03.01.01",
+  "name": "Seguros de Veículos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.06.01",
+  "name": "LUCROS A PAGAR",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.04.01",
+  "name": "IMPOSTOS RETIDOS A RECOLHER",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.02.03.04",
+  "name": "Adiantamento de Pro-Labore a Diretores",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "4.1.01.03.19",
+  "name": "Seguros",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.03",
+  "name": "FOLHA DE PAGAMENTO - DIRIGENTES",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.03.06",
+  "name": "Deprec.de Modelos, Moldes e Matrizes",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.04.01.04",
+  "name": "ISS Retido a Recolher",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.05.01.03",
+  "name": "FGTS Parcelamento",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.2.03.03.08",
+  "name": "Deprec.de Veículos",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.03.04.03",
+  "name": "INSS a Recolher",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.01.01.01",
+  "name": "Caixa Geral",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.06.01.01",
+  "name": "Lucros a Pagar",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.1.01.01.01",
+  "name": "Banco Conta Movimento",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "3.1.02.01.01",
+  "name": "COFINS",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "1.1.01.02.01",
+  "name": "Banco Conta Movimento",
+  "credit": 18598.8,
+  "debit": 353855.2
+}, {
+  "code": "2.1.03.04.01",
+  "name": "Contribuição Sindical a Recolher",
+  "credit": 0,
+  "debit": 0
+}, {
+  "code": "2.2.01.01.04",
+  "name": "HSBC",
+  "credit": 0,
+  "debit": 0
+}]
