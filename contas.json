@@ -264,7 +264,7 @@
   "credit": 0,
   "debit": 0
 }, {
-  "code": "4.2.03.01.06",
+  "code": "4.2.02.01.06",
   "name": "IPVA",
   "credit": 0,
   "debit": 0
@@ -294,7 +294,7 @@
   "credit": 0,
   "debit": 0
 }, {
-  "code": "4.2.02.02",
+  "code": "4.2.01.02",
   "name": "JUROS E DESCONTOS",
   "credit": 0,
   "debit": 0
@@ -364,7 +364,7 @@
   "credit": 0,
   "debit": 33973.87
 }, {
-  "code": "4.2.03.01.02",
+  "code": "4.2.02.01.02",
   "name": "CSLL",
   "credit": 0,
   "debit": 0
@@ -389,12 +389,12 @@
   "credit": 0,
   "debit": 0
 }, {
-  "code": "4.2.02.02.02",
+  "code": "4.2.01.02.02",
   "name": "Descontos Concedidos",
   "credit": 0,
   "debit": 0
 }, {
-  "code": "4.2.03.01.01",
+  "code": "4.2.02.01.01",
   "name": "IRPJ",
   "credit": 0,
   "debit": 0
@@ -429,7 +429,7 @@
   "credit": 0,
   "debit": 0
 }, {
-  "code": "4.2.02.02.03",
+  "code": "4.2.01.02.03",
   "name": "Juros s/ Empréstimos e Financiamentos",
   "credit": 0,
   "debit": 0
@@ -499,7 +499,7 @@
   "credit": 0,
   "debit": 0
 }, {
-  "code": "4.2.02.02.01",
+  "code": "4.2.01.02.01",
   "name": "Despesas com Juros",
   "credit": 0,
   "debit": 0
@@ -534,7 +534,7 @@
   "credit": 0,
   "debit": 0
 }, {
-  "code": "4.2.03.01.03",
+  "code": "4.2.02.01.03",
   "name": "Taxas",
   "credit": 0,
   "debit": 0
@@ -569,7 +569,7 @@
   "credit": 0,
   "debit": 0
 }, {
-  "code": "4.2.03.01.05",
+  "code": "4.2.02.01.05",
   "name": "IPTU",
   "credit": 0,
   "debit": 0
@@ -659,7 +659,7 @@
   "credit": 0,
   "debit": 0
 }, {
-  "code": "4.2.03",
+  "code": "4.2.02",
   "name": "DESPESAS TRIBUTÁRIAS",
   "credit": 0,
   "debit": 0
@@ -874,7 +874,7 @@
   "credit": 0,
   "debit": 0
 }, {
-  "code": "4.2.03.01.04",
+  "code": "4.2.02.01.04",
   "name": "IOF",
   "credit": 0,
   "debit": 0
@@ -894,7 +894,7 @@
   "credit": 0,
   "debit": 0
 }, {
-  "code": "4.2.03.01",
+  "code": "4.2.02.01",
   "name": " TAXAS E CONTRIBUIÇÕES",
   "credit": 0,
   "debit": 0
