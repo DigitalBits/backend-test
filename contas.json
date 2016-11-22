@@ -129,11 +129,6 @@
   "credit": 0,
   "debit": 0
 }, {
-  "code": "4.2.04.02.02",
-  "name": "Multas de Mora",
-  "credit": 0,
-  "debit": 0
-}, {
   "code": "1.1.02.09.04",
   "name": "IRRF a Recuperar/Compensar",
   "credit": 0,
@@ -141,11 +136,6 @@
 }, {
   "code": "2.1.05.01.02",
   "name": "CSLL Parcelamento",
-  "credit": 0,
-  "debit": 0
-}, {
-  "code": "4.2.04.02.03",
-  "name": "Multas Contratuais",
   "credit": 0,
   "debit": 0
 }, {
@@ -276,11 +266,6 @@
 }, {
   "code": "4.2.01.01.02",
   "name": "Despesas de Cobrança",
-  "credit": 0,
-  "debit": 0
-}, {
-  "code": "4.2.04.02.01",
-  "name": "Multas Fiscais Compensatórias",
   "credit": 0,
   "debit": 0
 }, {
@@ -846,11 +831,6 @@
 }, {
   "code": "1.2.03.01.07",
   "name": "Máquinas e Equipamentos",
-  "credit": 0,
-  "debit": 0
-}, {
-  "code": "4.2.04.02",
-  "name": "MULTAS",
   "credit": 0,
   "debit": 0
 }, {
